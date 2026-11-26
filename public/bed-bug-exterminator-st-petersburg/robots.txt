@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://st-petersburg-downtown-fl-33701.onrender.com/sitemap.xml
+Sitemap: https://st-petersburg-downtown-fl-33701.onrender.com/bed-bug-exterminator-st-petersburg/sitemap.xml
