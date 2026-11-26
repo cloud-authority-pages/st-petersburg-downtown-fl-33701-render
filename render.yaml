@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: st-petersburg-downtown-fl-33701
+    env: static
+    staticPublishPath: public
+    buildCommand: ""
+    pullRequestPreviewsEnabled: false
